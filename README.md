@@ -36,3 +36,8 @@ Home-made script for the analysis and figure creations.
 - module.py:	Utilities for position distribution calculation, ROI overlay, correlation calculation etc. Merge all the raw data files into one single file with a format elevating the effort for later analysis.
 
 - swaping_tp.py:	Histogram plot of the plasmid dwell time. Figure 6a.
+
+# License
+The Academic License
+
+Copyright (c) [2021] [Zezhou Liu]
